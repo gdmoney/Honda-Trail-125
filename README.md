@@ -24,8 +24,8 @@
 
 | Service/Part                 | Date       | Mileage    | Cost       | Notes                                             |
 | :--------------------------- | :--------- | :--------: | :--------: | :------------------------------------------------ |
-| Chain clean & wax            | nn.nn.2025 |    nnn     |            |                                                   |
-| Engine oil                   | nn.nn.2025 |    nnn     |            |                                                   |
+| Chain clean & wax            | nn.nn.2026 |    nnn     |            |                                                   |
+| Engine oil                   | nn.nn.2026 |    nnn     |            |                                                   |
 
 
 ### Parts/Upgrades
@@ -37,3 +37,4 @@
 | Engine crash bars            | Midimttop               | $130       | bought on Amazon                                  |
 | Exhaust crash bar            | Tricago                 | $40        | bought on Amazon                                  |
 | Cup holder                   | Accmor                  | $13        | bought on Amazon                                  |
+| Mirror                       | Mictuning               | $20        | bought on Amazon                                  |
