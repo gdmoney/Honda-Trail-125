@@ -24,7 +24,7 @@
 
 | Service/Part                 | Date       | Mileage    | Cost       | Notes                                             |
 | :--------------------------- | :--------- | :--------: | :--------: | :------------------------------------------------ |
-| Chain clean & wax            | nn.nn.2026 |    nnn     |            |                                                   |
+| Chain clean & wax            | 05.03.2026 |    3nn     |            |                                                   |
 | Engine oil                   | nn.nn.2026 |    nnn     |            |                                                   |
 
 
