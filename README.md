@@ -38,3 +38,5 @@
 | Exhaust crash bar            | Tricago                 | $40        | bought on Amazon                                  |
 | Cup holder                   | Accmor                  | $13        | bought on Amazon                                  |
 | Mirror                       | Mictuning               | $20        | bought on Amazon                                  |
+| Shift lever                  | Hammerhead Designs      | $46        | hdmoto.com                                        |
+
